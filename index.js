@@ -9,7 +9,7 @@ var local = process.cwd();
 var filePath = local;
 if (fileName) { 
     filePath = local + '/' + fileName;
-}
+};
 const use = argv.use || config.use;
 const app = config.app;
 const appPath = argv.app || app[use];
