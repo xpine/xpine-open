@@ -1,0 +1,8 @@
+{
+    "use": "vscode",
+    "app": {
+        "vscode": "Visual\\ Studio\\ Code",
+        "sublime": "Sublime\\ Text",
+        "atom": "Atom"
+    }
+}

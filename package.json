@@ -1,0 +1,18 @@
+{
+  "name": "xpine-open",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "xopen": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.7.8",
+    "yargs": "^10.0.3"
+  }
+}
